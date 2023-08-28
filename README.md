@@ -2,9 +2,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=time+new+roman&size=35&pause=1000&color=EA1179&center=true&width=1000&lines=Hello%2C+my+name+is+Ema%C3%BAs+Leonardo;I'm+21+year+old;I+studying+Front-End;Welcome+to+my+profile" />
 
+ ##
+ 
 <div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emaus-Leonardo&show_icons=true&theme=dracula" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emaus-Leonardo&layout=compact&theme=dracula" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emaus-Leonardo&show_icons=true&theme=radical" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emaus-Leonardo&layout=compact&theme=radical" />
 </div>
 
 
