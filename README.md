@@ -5,11 +5,9 @@
  ##
  
 <div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emaus-Leonardo&show_icons=true&theme=radical" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emaus-Leonardo&layout=compact&theme=radical" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emaus-Leonardo&show_icons=true&theme=synthwave" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emaus-Leonardo&show_icons=true&theme=synthwave" />
 </div>
-
-
 
 ## Tecnologias
  
