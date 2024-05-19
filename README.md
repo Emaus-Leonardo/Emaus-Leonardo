@@ -12,9 +12,9 @@
 ## My Skills
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="html5" height="40" width="40" src="https://github.com/Emaus-Leonardo/Emaus-Leonardo/assets/126693677/e3592bd0-473d-4465-8a92-01b703897559">
-    <img align="center" alt="css3" height="40" width="40" src="https://github.com/Emaus-Leonardo/Emaus-Leonardo/assets/126693677/5b5a530d-662d-4b03-aa50-17ac9e443f92">
-    <img align="center" alt="javascript" height="40" width="40" src="https://github.com/Emaus-Leonardo/Emaus-Leonardo/assets/126693677/ecb44637-28b6-4f1c-988a-98ebfc205653">
+    <img align="center" alt="html5" height="40" width="40" src="(https://github.com/Emaus-Leonardo/Emaus-Leonardo/assets/126693677/6f95c236-6464-4365-adac-f2134d907bc0">
+    <img align="center" alt="css3" height="40" width="40" src="https://github.com/Emaus-Leonardo/Emaus-Leonardo/assets/126693677/644a0e70-7de1-45b8-af86-8bb63a74efcc">
+    <img align="center" alt="javascript" height="40" width="40" src="https://github.com/Emaus-Leonardo/Emaus-Leonardo/assets/126693677/1af7a584-1639-4fc6-8672-06962287b0fe">
     <img align="center" alt="react" height="40" width="40" src="https://github.com/Emaus-Leonardo/Emaus-Leonardo/assets/126693677/49ff0060-a2e9-4de9-b09c-ee13c42eba0a">
     <img align="center" alt="nodejs" height="40" width="40" src="https://github.com/Emaus-Leonardo/Emaus-Leonardo/assets/126693677/717ccae0-eaf7-4661-9fbc-72689686d8aa">
 </div>
@@ -22,8 +22,9 @@
 ## Frameworks
 
 <div style="display: inline_block"><br>
-      <img align="center" alt="bootstrap" height="40" width="40" src="https://github.com/Emaus-Leonardo/Emaus-Leonardo/assets/126693677/6fa8d93c-6141-465c-a5a9-673a0777d67d">
-      <img align="center" alt="angular" height="40" width="40" src="https://github.com/Emaus-Leonardo/Emaus-Leonardo/assets/126693677/0df4a86f-83dd-4376-a4fd-7d72eee7a5ef">
+      <img align="center" alt="react" height="40" width="40" src="https://github.com/Emaus-Leonardo/Emaus-Leonardo/assets/126693677/6fa8d93c-6141-465c-a5a9-673a0777d67d">
+      <img align="center" alt="tailwind" height="40" width="40" src="https://github.com/Emaus-Leonardo/Emaus-Leonardo/assets/126693677/0df4a86f-83dd-4376-a4fd-7d72eee7a5ef">
+      <img align="center" alt="bootstrap" height="40" width="40" src="https://github.com/Emaus-Leonardo/Emaus-Leonardo/assets/126693677/11d85d3b-553a-480d-abdd-4d763a396706">
 </div>
 
 ##
