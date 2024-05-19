@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-     <p><img align="center" src="<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FEmaus-Leonardo&s=40&c=650f59&bg=00000000&no=2&ff=digi&tb=Visitors+%3A+&ta=" alt="visits">" /> </p>
+     <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FEmaus-Leonardo&s=40&c=650f59&bg=00000000&no=2&ff=digi&tb=Visitors+%3A+&ta=" alt="visits">
 </div>
 
 
