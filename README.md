@@ -27,3 +27,8 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9F0D7F,100:241468&height=120&section=footer" />
+
+<div align="center>
+  https://contribution.catsjuice.com/_/Emaus-Leonardo?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=fall&animation_duration=2&animation_delay=0.005&weeks=30&theme=purple&dark=true
+ 
+</div>
