@@ -9,7 +9,7 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emaus-Leonardo&layout=compact&theme=synthwave" />
 </div>
 
-## Tecnologias
+## My Skills
  
 <div style="display: inline_block"><br>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -25,10 +25,9 @@
       <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
+<div align="center">
+     <p><img align="center" src="<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FEmaus-Leonardo&s=40&c=650f59&bg=00000000&no=2&ff=digi&tb=Visitors+%3A+&ta=" alt="visits">" /> </p>
+</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9F0D7F,100:241468&height=120&section=footer" />
-
-<div align="center>
-    ![Ashutosh's activity graph](https://contribution.catsjuice.com/_/Emaus-Leonardo?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=fall&animation_duration=2&animation_delay=0.005&weeks=30&theme=purple&dark=true)
- 
-</div>
