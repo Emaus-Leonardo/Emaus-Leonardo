@@ -12,18 +12,20 @@
 ## My Skills
  
 <div style="display: inline_block"><br>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img align="center" alt="html5" src="https://github.com/Emaus-Leonardo/Emaus-Leonardo/assets/126693677/e3592bd0-473d-4465-8a92-01b703897559">
+    <img align="center" alt="html5" src="https://github.com/Emaus-Leonardo/Emaus-Leonardo/assets/126693677/5b5a530d-662d-4b03-aa50-17ac9e443f92">
+    <img align="center" alt="html5" src="https://github.com/Emaus-Leonardo/Emaus-Leonardo/assets/126693677/ecb44637-28b6-4f1c-988a-98ebfc205653">
+    <img align="center" alt="html5" src="https://github.com/Emaus-Leonardo/Emaus-Leonardo/assets/126693677/49ff0060-a2e9-4de9-b09c-ee13c42eba0a">
+    <img align="center" alt="html5" src="https://github.com/Emaus-Leonardo/Emaus-Leonardo/assets/126693677/717ccae0-eaf7-4661-9fbc-72689686d8aa">
      
 ## Frame Works
 
 <div style="display: inline_block"><br>
-      <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-      <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+      <img align="center" alt="html5" src="https://github.com/Emaus-Leonardo/Emaus-Leonardo/assets/126693677/6fa8d93c-6141-465c-a5a9-673a0777d67d">
+      <img align="center" alt="html5" src="https://github.com/Emaus-Leonardo/Emaus-Leonardo/assets/126693677/0df4a86f-83dd-4376-a4fd-7d72eee7a5ef">
 </div>
+
+ ##
 
 <div align="center">
      <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FEmaus-Leonardo&s=40&c=650f59&bg=00000000&no=2&ff=digi&tb=Visitors+%3A+&ta=" alt="visits">
