@@ -16,7 +16,6 @@
     <img align="center" alt="css3" height="40" width="40" src="https://github.com/Emaus-Leonardo/Emaus-Leonardo/assets/126693677/644a0e70-7de1-45b8-af86-8bb63a74efcc">
     <img align="center" alt="javascript" height="40" width="30" src="https://github.com/Emaus-Leonardo/Emaus-Leonardo/assets/126693677/1af7a584-1639-4fc6-8672-06962287b0fe">
     <img align="center" alt="react" height="40" width="40" src="https://github.com/Emaus-Leonardo/Emaus-Leonardo/assets/126693677/49ff0060-a2e9-4de9-b09c-ee13c42eba0a">
-    <img align="center" alt="nodejs" height="40" width="40" src="https://github.com/Emaus-Leonardo/Emaus-Leonardo/assets/126693677/717ccae0-eaf7-4661-9fbc-72689686d8aa">
 </div>
 
 ## Frameworks
